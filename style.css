@@ -33,6 +33,7 @@ body {
 }
 
 h2 {
+  align-items: none;
   justify-content: start;
   z-index: 5;
 }
