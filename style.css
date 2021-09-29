@@ -27,7 +27,11 @@ body {
   filter: blur(0px);
 }
 
-.loading-text a {
+.loading-text {
   font-size: 50px;
   color: #fff;
+}
+
+a {
+  z-index: 5;
 }
