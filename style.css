@@ -33,7 +33,9 @@ body {
 }
 
 h2 {
-  align-items: none;
+    position: absolute;
+  top: 30px;
+  left: 30px;
   justify-content: start;
   z-index: 5;
 }
