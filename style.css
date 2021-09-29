@@ -33,5 +33,6 @@ body {
 }
 
 a {
+  justify-content: start;
   z-index: 5;
 }
