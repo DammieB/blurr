@@ -34,8 +34,8 @@ body {
 
 h2 {
     position: absolute;
-  top: 30px;
-  left: 30px;
+  top: -130px;
+  left: -130px;
   justify-content: start;
   z-index: 5;
 }
