@@ -35,8 +35,8 @@ body {
 h2 {
   display: inline-block;
     position: absolute;
-  top: -130px;
-  left: -130px;
+  top: 10px;
+  left: 10px;
   justify-content: start;
   z-index: 5;
 }
