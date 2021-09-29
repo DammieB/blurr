@@ -33,6 +33,7 @@ body {
 }
 
 h2 {
+  display: inline-block;
     position: absolute;
   top: -130px;
   left: -130px;
